@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "test0",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test0",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test6",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test7",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test8",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test9",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test10",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test11",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test11",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test12",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test12",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test13",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test13",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test14",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test14",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test15",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test15",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test16",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test16",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test17",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test17",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test18",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test18",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test19",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ./test/test_02.py::test19",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
